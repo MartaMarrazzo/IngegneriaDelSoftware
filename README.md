@@ -1,8 +1,8 @@
 # IngegneriaDelSoftware
 progetto
-1.Intervista :tulip:
-2.Descrizione del sistema in linguaggio naturale :tulip:
-3.Glossario dei termini
+1.Intervista :tulip: \\
+2.Descrizione del sistema in linguaggio naturale :tulip: \\
+3.Glossario dei termini \\
 4.Analisi dei requisiti (requisiti funzionali e non funzionali)
 5.Diagramma dei casi d’uso.
 6.Descrizione dei casi d’uso.
